@@ -1,1 +1,1 @@
-# Repositório referente ao Scripts SQL do módulo Banco de DAdos 	da Devaria.
+# Repositório referente aos Scripts SQL do módulo Banco de Dados da Devaria.
